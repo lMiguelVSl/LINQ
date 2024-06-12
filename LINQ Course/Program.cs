@@ -14,3 +14,6 @@ Console.WriteLine($" isAnyPetNamedRover: {isAnyPetNamedRover}");
 
 var isNotEmpty = pets.Any();
 Console.WriteLine($" isNotEmpty: {isNotEmpty}");
+var names = new[] {"Bob", "Mavs", "Gregggggggggggggggggggggggggggggg"};
+var areAllNamesValid = names.All(n => char.IsLower(n[0]) && n.Length is > 2 and < 25);
+Console.WriteLine($" areAllNamesValid: {areAllNamesValid}");
