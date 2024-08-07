@@ -1,4 +1,3 @@
-using System.Collections;
 using LINQ_Course.Entities;
 
 namespace LINQ_Course.Methods;

@@ -1,5 +1,4 @@
-﻿using LINQ_Course.Entities;
-using LINQ_Course.Methods;
+﻿using LINQ_Course.Methods;
 
 //Any method
 LinqAny.IsAnyLargerThan4();
