@@ -16,3 +16,9 @@ Console.WriteLine("OrderBy method");
 LinqOrderBy.OrderByName();
 LinqOrderBy.OrderByNameDescending();
 Console.WriteLine(" ");
+
+//MinMax method
+Console.WriteLine("MinMax method");
+MinMax.GetMinMaxNum();
+MinMax.GetMinMaxPetHeight();
+Console.WriteLine(" ");
