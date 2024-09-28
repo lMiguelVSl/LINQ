@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miguelvargas/Desktop/Apps/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj": {}
+    "/Users/miguelvargas/Desktop/Development/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj": {}
   },
   "projects": {
-    "/Users/miguelvargas/Desktop/Apps/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj": {
+    "/Users/miguelvargas/Desktop/Development/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miguelvargas/Desktop/Apps/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj",
+        "projectUniqueName": "/Users/miguelvargas/Desktop/Development/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj",
         "projectName": "LINQ Course",
-        "projectPath": "/Users/miguelvargas/Desktop/Apps/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj",
+        "projectPath": "/Users/miguelvargas/Desktop/Development/02 - Back/DotNet/LINQ Course/LINQ Course/LINQ Course.csproj",
         "packagesPath": "/Users/miguelvargas/.nuget/packages/",
-        "outputPath": "/Users/miguelvargas/Desktop/Apps/02 - Back/DotNet/LINQ Course/LINQ Course/obj/",
+        "outputPath": "/Users/miguelvargas/Desktop/Development/02 - Back/DotNet/LINQ Course/LINQ Course/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/miguelvargas/.nuget/NuGet/NuGet.Config"
